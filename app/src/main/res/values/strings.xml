@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="start_btn">Play</string>
+    <string name="score2">Your Score : </string>
+    <string name="pause">Pause/End</string>
+    <string name="Exit">Exit</string>
+</resources>
